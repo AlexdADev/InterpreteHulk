@@ -1,0 +1,15 @@
+B:\Escuela 2.0\Programación\Nueva carpeta\Hulk\bin\Debug\net6.0\Hulk.exe
+B:\Escuela 2.0\Programación\Nueva carpeta\Hulk\bin\Debug\net6.0\Hulk.deps.json
+B:\Escuela 2.0\Programación\Nueva carpeta\Hulk\bin\Debug\net6.0\Hulk.runtimeconfig.json
+B:\Escuela 2.0\Programación\Nueva carpeta\Hulk\bin\Debug\net6.0\Hulk.dll
+B:\Escuela 2.0\Programación\Nueva carpeta\Hulk\bin\Debug\net6.0\Hulk.pdb
+B:\Escuela 2.0\Programación\Nueva carpeta\Hulk\obj\Debug\net6.0\Hulk.csproj.AssemblyReference.cache
+B:\Escuela 2.0\Programación\Nueva carpeta\Hulk\obj\Debug\net6.0\Hulk.GeneratedMSBuildEditorConfig.editorconfig
+B:\Escuela 2.0\Programación\Nueva carpeta\Hulk\obj\Debug\net6.0\Hulk.AssemblyInfoInputs.cache
+B:\Escuela 2.0\Programación\Nueva carpeta\Hulk\obj\Debug\net6.0\Hulk.AssemblyInfo.cs
+B:\Escuela 2.0\Programación\Nueva carpeta\Hulk\obj\Debug\net6.0\Hulk.csproj.CoreCompileInputs.cache
+B:\Escuela 2.0\Programación\Nueva carpeta\Hulk\obj\Debug\net6.0\Hulk.dll
+B:\Escuela 2.0\Programación\Nueva carpeta\Hulk\obj\Debug\net6.0\refint\Hulk.dll
+B:\Escuela 2.0\Programación\Nueva carpeta\Hulk\obj\Debug\net6.0\Hulk.pdb
+B:\Escuela 2.0\Programación\Nueva carpeta\Hulk\obj\Debug\net6.0\Hulk.genruntimeconfig.cache
+B:\Escuela 2.0\Programación\Nueva carpeta\Hulk\obj\Debug\net6.0\ref\Hulk.dll
